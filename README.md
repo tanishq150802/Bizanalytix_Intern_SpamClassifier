@@ -1,6 +1,6 @@
 # Bizanalytix_Intern_SpamClassifier
 
-Follow **the spam_classifier.ipynb** for all the code.
+Follow **spam_classifier.ipynb** file for all the code.
 
 Install the following requirements while running the notebook on Colab: urlextract
 
