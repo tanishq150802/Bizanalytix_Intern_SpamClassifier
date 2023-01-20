@@ -14,3 +14,5 @@ The following results were obtained after training the Artificial Neural Network
 We were asked to convert all the data into a sparse matrix form which prevented us from using the state-of-the-art Scikit-learn classifiers like MLP, Randomforest, Adaboost etc. which take input as a dataframe. As the data was preprocessed into a matrix form, only option was to convert it into a numpy array and train a neural network. Better results are obtained with MLP classifier as suggested in https://github.com/MoazAshraf/Spam-Classifier
 
 PS: I thank Vikram Sir from Bizanalytix for helping me with parsing the emails.
+
+Tanishq Selot
